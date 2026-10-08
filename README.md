@@ -136,7 +136,7 @@ flowchart LR
 | **Queues** | BullMQ |
 | **Containers** | Docker, Docker Compose, Kubernetes manifests with HPA (local, Minikube) |
 | **Tooling** | Git, ESLint, Prettier, Husky |
-| **Frontend (secondary)** | Vue 3, Pinia, Vue Router, Tailwind CSS |
+| **Frontend (secondary)** | Vue 3, Pinia, Vue Router, Tailwind CSS | Reactjs | Nextjs |
 | **Data and reporting** | Power BI |
 
 **Currently learning**
